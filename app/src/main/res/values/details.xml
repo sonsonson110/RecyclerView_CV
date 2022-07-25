@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="details">
+        <item name="giới thiệu">@string/dummy_paragraph</item>
+        <item name="mục tiêu">
+            - Mục tiêu ngắn hạn: Tích luỹ kiến thức thực chiến, học tập và làm việc trong một môi trường chuyên nghiệp, rèn
+            luyện và nâng cao các kĩ năng, phát triển bản thân, có thể tiếp tục đóng góp cho công ty sau khi hoàn thành chương
+            trình thực tập (Part-time).\n
+            \n
+            - Mục tiêu dài hạn: Trong 2 năm tới, nắm vững các kiến thức nền tảng về Android Native, mở rộng ra Cross-Platform
+            và IOS; ra trường làm việc toàn thời gian với khối kiến thức vững vàng.
+        </item>
+        <item name="kĩ năng">
+            - C, C++\n
+            - Cấu trúc dữ liệu &amp; giải thuật\n
+            - Android, Kotlin\n
+            - HTML, CSS\n
+        </item>
+        <item name="học vấn">
+            Học viện Công nghệ Bưu chính Viễn thông (PTIT)\n
+            11/2020 - nay\n
+            Chuyên ngành: Công nghệ thông tin\n
+            - Đã hoàn thành 2 năm học\n
+            - Điểm trung bình tích lũy (hệ 4): 3.49\n
+            - Đạt học bổng loại xuất sắc: học kì 2 năm học 2020-2021\n
+            \n
+            Trường THPT Chuyên Hạ Long\n
+            2017 - 2020\n
+            Chuyên: Tiếng Anh\n
+            - Đạt học bổng liên tiếp 4 kì học cuối\n
+        </item>
+        <item name="khoá học">
+            Tự học\n
+            2020 - nay\n
+            Tự học thêm kiến thức trên Internet\n
+            - Kiến thức cơ bản về: HTML, CSS, Android\n
+            \n
+            Android Basics in Kotlin\n
+            15/5/2022 - 18/6/2022\n
+            Cộng đồng Google Developer Group tổ chức\n
+            - Sử dụng Android Studio\n
+            - Android Architecture Components\n
+            - Database, lấy giữ liệu từ internet\n
+        </item>
+        <item name="chứng chỉ">
+            24/04/2021:\t    Đạt 760 điểm chứng chỉ TOEIC IIG
+        </item>
+        <item name="kĩ năng mềm">
+            Tin học văn phòng\n
+            Làm việc nhóm\n
+            Thuyết trình\n
+        </item>
+        <item name="liên hệ">
+            Contact meee!\n
+        </item>
+    </string-array>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RecyclerView CV</string>
+    <string name="profile1">Về bản thân</string>
+    <string name="profile2">Mục tiêu</string>
+    <string name="profile3">Kĩ năng</string>
+    <string name="profile4">Học vấn</string>
+    <string name="profile5">Khoá học</string>
+    <string name="profile6">Chứng chỉ</string>
+    <string name="profile7">Kĩ năng mềm</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet</string>
+    <string name="profile8">Liên hệ</string>
+    <string name="title">Title</string>
+    <string name="dummy_paragraph">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="detail_title">Chi tiết nội dung</string>
+    <string name="my_email">pson141002@gmail.com</string>
+    <string name="my_phone">(+84) 776231818</string>
+    <string name="my_location">Phố An Hoà, Mộ Lao, Hà Đông</string>
+    <string name="send_email_button_text">Send me email!</string>
+    <string name="visit_facebook_button_text">Visit my Facebook!</string>
+</resources>
